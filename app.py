@@ -161,7 +161,7 @@ y_test_scaled = y_scaler.transform(y_test)
 
 rfm = RandomForestRegressor(n_estimators=1000)
 
-rfm.fit(X_train_scaled, y_train_scaled)
+rfm.fit(X_train_scaled, y_train_scaled.ravel())
 
 training_score = rfm.score(X_train_scaled, y_train_scaled)
 testing_score = rfm.score(X_test_scaled, y_test_scaled)
