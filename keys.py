@@ -1,6 +1,0 @@
-fred_key = "1e10f2f0fe73c366be93e4fb43afb56b"
-eia_key = "c81021024d1bc213cf7072a3ca6faf1c"
-twitter_api_key = "9RB4ur7oOya0mkGlrYEPVfdhp"
-twitter_api_secret_key = "w9xxQVqFlN7fHUDY86rPhZtkvRobao7vCUFrgFpfmoaYYAszOC"
-twitter_access_token = "1242593020899442689-6A5gCnU13VucEOsZ8mmCC2MIQsNXZe"
-twitter_access_secret_token = "o9bqBukt6CFIFmnFccfyKbhkIt8lScFjQUdiwGMFIcPqg"
