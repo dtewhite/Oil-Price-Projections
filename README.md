@@ -1,3 +1,10 @@
 # Oil-Price-Projections
 
-This project seeks to predict changes in the price of crude oil. The model uses a Random Forest to create predicitons and then posts them to a Twitter profile (https://twitter.com/WTI_Predictor).
+This project seeks to predict changes in the price of crude oil. The model used is a Random Forest, and then the predicitons are posted by a Twitter bot. The profile can be found here: https://twitter.com/WTI_Predictor.
+
+## Technologies Used
+
+- SciKit-Learn
+- Python Pandas
+- Plot.ly
+- Tweepy
